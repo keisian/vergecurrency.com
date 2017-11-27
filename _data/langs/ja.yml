@@ -2,20 +2,20 @@
 lang_name: "日本語"
 head:
   meta:
-    description: "バージ(XVG)は、プライバシーを重視して設計された、安全で匿名な暗号通貨です。"
-  title: "バージは、プライバシーを重視して設計された、安全で匿名な暗号通貨です。"
+    description: "Verge(XVG)は、プライバシーを重視して設計された、安全で匿名な暗号通貨です。"
+  title: "Vergeは、プライバシーを重視して設計された、安全で匿名な暗号通貨です。"
 nav:
   about:
-    title: "バージについて"
+    title: "Vergeについて"
   exchanges:
-    title: "バージを入手する"
+    title: "Vergeを入手する"
   wallets:
     title: "ウォレット"
   roadmap:
     title: "ロードマップ"
   community:
     title: "コミュニティ"
-tagline: "バージは、プライバシーを重視して設計された、安全で匿名の暗号通貨です。"
+tagline: "Vergeは、プライバシーを重視して設計された、安全で匿名の暗号通貨です。"
 download: "ダウンロード"
 view: "ビュー"
 view_all_wallets: "すべてのウォレットを見る"
@@ -24,26 +24,26 @@ info:
     header:"ミッション・ステートメント"
     paragraph:"私たちの使命は、日常の生活で使用できるブロックチェーン取引を提供することで、世界中の人々に貢献することです。バージを使えば、プライバシーを保護しながら、ダイレクト・トランザクションを迅速、かつ効率的に行うことが可能です。バージは、企業と個人がトランザクションを行う際にオプションを提供しています。そのオプションにより、大規模な商業的トランザクションと小規模な個人間でのトランザクションのどちらにも対応可能な総合的ツールとして用いることが可能です。"
   about:
-    header: "バージについて"
-    paragraph: "バージは、日常利用のために設計された暗号通貨です。我々はビットコインのブロックチェーンの良さを残しつつ、より改善を図るためにシステムを再構築しました。そのシステムは個人および企業のニーズを満たしながら、プライバシーの保護を強化し、迅速かつ効率的で分散したダイレクトトランザクションを提供するという目的を満たしています。"
+    header: "Vergeについて"
+    paragraph: "Vergeは、日常利用のために設計された暗号通貨です。我々はビットコインのブロックチェーンの良さを残しつつ、より改善を図るためにシステムを再構築しました。そのシステムは個人および企業のニーズを満たしながら、プライバシーの保護を強化し、迅速かつ効率的で分散したダイレクトトランザクションを提供するという目的を満たしています。"
      anonymous_privacy-focused:
       header: "完全に匿名でプライバシー重視"
-      paragraph: "バージは、匿名化ネットワークの「Tor」や「I2P」等の技術を使用しています。これによりユーザーのIPアドレスは特定不可能になり、送金経路を追跡することはできません。"
+      paragraph: "Vergeは、匿名化ネットワークの「Tor」や「I2P」等の技術を使用しています。これによりユーザーのIPアドレスは特定不可能になり、送金経路を追跡することはできません。"
      great_support:
       header: "コミュニティの強固なサポート"
-      paragraph: "バージは、プレマインやICOによって資金調達された企業ではありません。すべての開発とマーケティングは、数千人いるコミュニティのメンバーによって行われています。"
+      paragraph: "Vergeは、プレマインやICOによって資金調達された企業ではありません。すべての開発とマーケティングは、数千人いるコミュニティのメンバーによって行われています。"
      fast_transactions:
       header: "超高速トランザクション"
-      paragraph: "他の暗号通貨と比較するとバージのトランザクション・スピードは非常に高速です。 「Simple Payment Verification（SPV）」技術により、平均所要取引時間は約5秒となっています。"
+      paragraph: "他の暗号通貨と比較するとVergeのトランザクション・スピードは非常に高速です。 「Simple Payment Verification（SPV）」技術により、平均所要取引時間は約5秒となっています。"
      active_development_team:
       header: "多くのコントリビューターと活発な開発チーム"
-      paragraph: "開発チームは積極的であり、常にコミュニティーに対して情報を開示しています。バージについてのサポートや新しいアイデアがあれば、お気軽にコアメンバーにお問い合わせ下さい。"
+      paragraph: "開発チームは積極的であり、常にコミュニティーに対して情報を開示しています。Vergeについてのサポートや新しいアイデアがあれば、お気軽にコアメンバーにお問い合わせ下さい。"
      mass_adoption:
       header: "いますぐにでも使えます"
-      paragraph: "バージは、複数のOSで使える安全なウォレットを提供しています。革新的なアンドロイド用「Tor Android Wallet」は持ち運び可能な匿名ウォレットです。これはプライバシーを志向する暗号通貨の中でも、ユニークなウォレットです。"
+      paragraph: "Vergeは、複数のOSで使える安全なウォレットを提供しています。革新的なアンドロイド用「Tor Android Wallet」は持ち運び可能な匿名ウォレットです。これはプライバシーを志向する暗号通貨の中でも、ユニークなウォレットです。"
      decentralized_open-source:
       header: "分散型オープンソース"
-      paragraph: "バージは、オープンソース・プラットフォームに基づく分散型通貨です。バージのコインに中央管理者は存在していません。"
+      paragraph: "Vergeは、オープンソース・プラットフォームに基づく分散型通貨です。Vergeのコインをコントロールする者はいません"
   resources:
     header: "リソース"
     black_paper: "ブラック・ペーパー"
@@ -68,8 +68,8 @@ developers:
     rubygems_howto: ""
     github_repos: ""
 exchanges:
-  header: "バージを入手する"
-  paragraph: "バージは以下の取引所に上場しており、取引が可能です:"
+  header: "Vergeを入手する"
+  paragraph: "Vergeは以下の取引所に上場しており、取引が可能です:"
   bittrex: "Bittrex"
   bitsquare: "BitSquare.io"
   ccex: "C-Cex"
@@ -80,8 +80,8 @@ exchanges:
   coingather: "CoinGather"
   coinspot: "CoinSpot"
 real_world_vendors:
-  header: "バージによる取引が可能な店舗"
-  paragraph: "以下のすべての店舗で、商品やサービスを購入する際にバージでの決済が可能です。"
+  header: "Vergeによる取引が可能な店舗"
+  paragraph: "以下のすべての店舗で、商品やサービスを購入する際にVergeでの決済が可能です。"
 wallets:
   header: "ウォレット"
   info:
@@ -92,13 +92,13 @@ wallets:
     mobile: "モバイル"
     other: "その他"
   windows: "Verge Windows ウォレット"
-  macosx: "Verge　Mac OSX ウォレット"
-  android: "Verge　Android ウォレット"
-  archlinux: "Verge　ArchLinux ウォレット"
-  centos: "Verge　CentOS ウォレット"
-  debian: "Verge　Debian ウォレット"
-  fedora: "Verge　Fedora ウォレット"
-  web: "Verge　Web ウォレット"
+  macosx: "Verge Mac OSX ウォレット"
+  android: "Verge Android ウォレット"
+  archlinux: "Verge ArchLinux ウォレット"
+  centos: "Verge CentOS ウォレット"
+  debian: "Verge Debian ウォレット"
+  fedora: "Verge Fedora ウォレット"
+  web: "Verge Web ウォレット"
   web_tor: "Verge　TOR Web ウォレット"
   web_i2P: "Verge　i2P Web ウォレット"
   raspberry_pi: "Verge Raspberry　Pi ソースコード"
@@ -107,7 +107,7 @@ wallets:
   electrum_windows: "Verge Windows Electrumウォレット"
   electrum_windows_tor: "Verge TOR Windows Electrumウォレット"
   paper: "Verge　ペーパーウォレット"
-  daemon_docker: "Verge　Daemon Dockerのイメージ"
+  daemon_docker: "Verge Daemon Dockerのイメージ"
   coinomi: "Coinomi マルチ通貨 Androidウォレット"
 roadmap:
   header: "ロードマップ"
@@ -126,7 +126,7 @@ roadmap:
     date: "<font color='#08b4e0'>2017年、第4四半期</font> "
   i2P_android_wallet:
     header: "i2P Android ウォレット"
-    paragraph: "匿名取引専用のアンドロイド・ウォレット「I2P Android Wallet」（もうすぐリリースされます。）"
+    paragraph: "匿名取引専用のAndroid ウォレット「I2P Android ウォレット」（もうすぐリリースされます。）"
     date: "2017年、第4四半期"
   mining_update:
     header: "マイニング・アップデート"
@@ -137,45 +137,45 @@ roadmap:
     paragraph: "XVGuiマイナー、オフィシャル・マイニング・プール、マイニング・ガイド"
     date: "2017年、第4四半期"
   rsk_smart_contracts:
-    header: "RSK・スマート・コントラクト"
+    header: "RSK スマート・コントラクト"
     paragraph: "現在、ビットコインのテストネットにて試験中です。"
     date: "2017年、第4四半期 ～ 2018年、第1四半期"
   
 developers:
     about:
       header: "開発者"
-      paragraph: "バージでの開発は簡単ではありません。バージの開発環境で、作業を容易にするための開発ツールを揃えています。"
+      paragraph: "開発は容易ではありません。Vergeの開発作業の手助けとなるツールを揃えています。"
     resources:
       header: "開発者のツール"
        rubygems_howto: "「RubyGems」のインストール方法"
        gitHub desktop: "「GitHub」デスクトップ"
-       github_repos: "バージ「GitHub」リポジトリ"
-       php: "バージ・ウォレット用「PHPライブラリ」"
-       ruby wrapped gem: "バージ・ウォレット開発用の「RubyGem」"
-       python: "Pythonのためのバージ「API」"
-       nodejs: "バージ用の「Node.js」クライアント"
+       github_repos: "Verge「GitHub」リポジトリ"
+       php: "Verge ウォレット用「PHPライブラリ」"
+       ruby wrapped gem: "Verge ウォレット開発用の「RubyGem」"
+       python: "PythonのためのVerge「API」"
+       nodejs: "Verge用の「Node.js」クライアント"
        
 contributors:
   about:
     header: "コントリビュータ"
-    paragraph: "バージはオープンソースソフトウェアであり、多くのコントリビューター（貢献者）の支援により改善が続けられています。コントリビューターになりたい場合は、<a href='https://github.com/vergecurrency' target='_blank'>「Github」のリポジトリ</a>!"から参加下さい。そして、一緒にバージを成長させていきましょう！
+    paragraph: "Vergeはオープンソースソフトウェアであり、多くのコントリビューター（貢献者）の支援により改善が続けられています。コントリビューターになりたい場合は、<a href='https://github.com/vergecurrency' target='_blank'>「Github」のリポジトリ</a>!"から参加下さい。そして、一緒にバージを成長させていきましょう！
   wallets:
     verge:
-      header: "バージ・ウォレット・アドレス"
+      header: "Verge ウォレット・アドレス"
       address: DDd1pVWr8PPAw1z7DRwoUW6maWh5SsnCcp
     bitcoin:
-      header: "ビットコイン・ウォレット・アドレス"
+      header: "Bitcoin ウォレット・アドレス"
       address: 142r3vCAH3AzABiQjFPmcrSCp6TDzEDuB1
 donate:
   about:
     header: "開発支援のための寄付"
-    paragraph: "バージはプレマインされた暗号通貨ではありません。よって、開発コストはすべてあなたのように親切な人々の資金支援によって賄われています。"
+    paragraph: "Vergeはプレマインされた暗号通貨ではありません。よって、開発コストはすべてあなたのように親切な人々の資金支援によって賄われています。"
   wallets:
     verge:
-      header: "バージ・ウォレット・アドレス"
+      header: "Verge ウォレット・アドレス"
       address: DDd1pVWr8PPAw1z7DRwoUW6maWh5SsnCcp
     bitcoin:
-      header: "ビットコイン・ウォレット・アドレス"
+      header: "Bitcoin ウォレット・アドレス"
       address: 142r3vCAH3AzABiQjFPmcrSCp6TDzEDuB1
 footer:
   social:
@@ -183,12 +183,12 @@ footer:
     slack: "Slack"
     facebook: "Facebook"
     twitter: "Twitter"
-    irc: "IRC チャット"
+    irc: "IRC Chat"
     bitcointalk: "BitCoinTalk"
     reddit: "Reddit"
     steam: "Steam"
     telegram: "Telegram"
-    verge_radio: "バージ・ラジオ"
+    verge_radio: "Verge Radio"
     discord: "Verge Discord"
   tweets:
     header: "ツイート"
